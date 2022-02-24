@@ -1,0 +1,14 @@
+#!/bin/bash
+
+a=15
+b=25
+
+if [ $a -eq $b ]
+then
+echo "a equal b"
+else
+echo "a and b are not equal"
+fi 
+
+echo "We are ready to have 6 figures"
+
